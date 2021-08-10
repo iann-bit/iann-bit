@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iann-bit
+- 👀 I’m interested in data science, bioinformatics, and cultural and demographic data.
+- 💞️ I’m looking to collaborate on any cool projects related to my interests.
